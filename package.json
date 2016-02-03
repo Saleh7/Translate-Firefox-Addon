@@ -1,0 +1,14 @@
+{
+  "title": "Translate - الترجمة",
+  "name": "TranslateGBY",
+  "version": "2.1",
+  "description": "ترجمة النصوص ( من اي لغة ) إلى الغة العربية نصي وصوتي , فقط أضغط كلك يمين على النص وترجم .",
+  "main": "main.js",
+  "author": "Saleh Homoud",
+  "engines": {
+    "firefox": ">=38.0a1"
+  },
+  "keywords": [
+    "google","bing","translate","ترجمة","انجليزي","عربي","bing","Yandex","arabic","english","الترجمة","مترجم"
+  ]
+}
